@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Questions / Discussions
+    url: https://github.com/hide-san-45/gitbucket-plantuml-plugin/discussions
+    about: Ask questions or discuss ideas before creating an issue.
+
+  - name: Documentation
+    url: https://github.com/hide-san-45/gitbucket-plantuml-plugin/wiki
+    about: Check the documentation before creating an issue.
